@@ -1,8 +1,0 @@
-[03/22/26 -> 23 : 25 : 36] user ==> ERROR ; Error the url is not valed
-[03/22/26 -> 23 : 29 : 03] j ==> ERROR ; Error the url is not valed
-[03/23/26 -> 00 : 24 : 11] user ==> ERROR ; Error the url is not valed
-[03/23/26 -> 00 : 24 : 11] user ==> DEBUG ; Error [0;31mERROR:[0m [generic] 'dgdg' is not a valid URL
-[03/23/26 -> 01 : 28 : 15] user ==> INFO ; get info about URL
-[03/23/26 -> 01 : 28 : 31] user ==> INFO ; success
-[03/23/26 -> 01 : 28 : 31] JSON ==> INFO ; get import data in URL data
-[03/23/26 -> 01 : 28 : 31] JSON ==> INFO ; success
