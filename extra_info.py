@@ -32,7 +32,7 @@ def show_data():
                 vcodec = fmt.get('vcodec', 'none') 
 
 
-                elif vcodec != 'none' and acodec == 'none':
+                if vcodec != 'none' and acodec == 'none':
                         if 'p' in f_note: 
                                 video_only.append(f"{f_id:<5} | {f_note:<10} | {f_ext}")
 
